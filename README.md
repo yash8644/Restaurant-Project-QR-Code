@@ -1,0 +1,1 @@
+The restaurant system enables a seamless dining experience by allowing customers to scan a QR code placed on their table using their mobile phone. Upon scanning, they are instantly directed to a digital menu specific to their table. This eliminates the need for physical menus and streamlines the ordering process, making it faster, contactless, and more efficient.
